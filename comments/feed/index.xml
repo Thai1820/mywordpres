@@ -7,33 +7,15 @@
 	>
 <channel>
 	<title>
-	Bình luận cho My wordpress	</title>
+	Bình luận cho Reibookstore	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://https://thai1820.github.io/mywordpres</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 30 Sep 2021 21:15:34 +0000</lastBuildDate>
+	<description>Sách là tri thức của nhân loài</description>
+	<lastBuildDate>Sat, 23 Oct 2021 10:53:27 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-	<item>
-		<title>
-		Phản hồi cho Chào tất cả mọi người! bởi Một người bình luận WordPress		</title>
-		<link>http://https://thai1820.github.io/mywordpres/2021/09/30/chao-moi-nguoi/#comment-1</link>
-
-		<dc:creator><![CDATA[Một người bình luận WordPress]]></dc:creator>
-		<pubDate>Thu, 30 Sep 2021 21:15:34 +0000</pubDate>
-		<guid isPermaLink="false">http://https://thai1820.github.io/mywordpres/?p=1#comment-1</guid>
-
-					<description><![CDATA[Xin chào, đây là một bình luận
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.
-Avatar của người bình luận sử dụng &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Xin chào, đây là một bình luận<br />
-Để bắt đầu với quản trị bình luận, chỉnh sửa hoặc xóa bình luận, vui lòng truy cập vào khu vực Bình luận trong trang quản trị.<br />
-Avatar của người bình luận sử dụng <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

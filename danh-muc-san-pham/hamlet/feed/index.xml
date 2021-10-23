@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Hamlet &#8211; Reibookstore</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/hamlet/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<description>Sách là tri thức của nhân loài</description>
+	<lastBuildDate>Wed, 20 Oct 2021 15:52:24 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://https://thai1820.github.io/mywordpres/wp-content/uploads/2021/10/cropped-Grans-way-1-32x32.png</url>
+	<title>Hamlet &#8211; Reibookstore</title>
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hamlet</title>
+		<link>http://https://thai1820.github.io/mywordpres/san-pham/hamlet/</link>
+					<comments>http://https://thai1820.github.io/mywordpres/san-pham/hamlet/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThaiTT]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 14:42:31 +0000</pubDate>
+				<guid isPermaLink="false">http://https://thai1820.github.io/mywordpres/?post_type=product&#038;p=89</guid>
+
+					<description><![CDATA[Kích thước : 24 x 15 cm
+
+Nhà xuất bản : USBORNE PUBLISHING]]></description>
+										<content:encoded><![CDATA[<p>Khi vua cha của mình qua đời, Hamlet đang du học trở về nhà chịu tang và bất ngờ nhận ra người mẹ – hoàng hậu đã tái hôn với chú mình. Trước sự trùng hợp quá thuận lợi, anh không khỏi nghi ngờ và đau lòng từng bước chấp nhận sự thật. Anh quyết trả thù cho vua cha để lập lại công bằng. Trên hành trình của mình, anh nhiều lần bị dằn vặt bởi đạo làm con, cũng như nghi ngờ về tình yêu và tấm lòng người phụ nữ thực sự thủy chung</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://thai1820.github.io/mywordpres/san-pham/hamlet/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

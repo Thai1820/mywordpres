@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ông già và biển cả &#8211; Reibookstore</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/ong-gia-va-bien-ca/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<description>Sách là tri thức của nhân loài</description>
+	<lastBuildDate>Fri, 01 Oct 2021 14:59:54 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://https://thai1820.github.io/mywordpres/wp-content/uploads/2021/10/cropped-Grans-way-1-32x32.png</url>
+	<title>Ông già và biển cả &#8211; Reibookstore</title>
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Ông già và biển cả</title>
+		<link>http://https://thai1820.github.io/mywordpres/san-pham/ong-gia-va-bien-ca/</link>
+					<comments>http://https://thai1820.github.io/mywordpres/san-pham/ong-gia-va-bien-ca/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThaiTT]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 14:59:54 +0000</pubDate>
+				<guid isPermaLink="false">http://https://thai1820.github.io/mywordpres/?post_type=product&#038;p=95</guid>
+
+					<description><![CDATA[Công ty phát hành : Huy Hoàng Bookstore
+
+Kích thước : 13.5 x 20.5 cm
+
+Số trang : 162]]></description>
+										<content:encoded><![CDATA[<p>Tác phẩm kinh điển Ông già và biển cả của nhà văn Ernest Hemingway được xuất bản lần đầu vào năm 1952, đây là một trong những tác phẩm được đánh giá là cuốn sách hay nhất mọi thời đại.</p>
+<p>Nội dung của tác phẩm này được xây dựng theo thể loại truyện viễn tưởng và được nhiều người đọc biết đến với nguyên lý “tảng băng trôi” với lý thuyết là một phần nổi &#8211; bảy phần chìm. Câu chuyện kể về sự đối đầu của một ông lão đánh cá và cuộc chiến không cân sức giữa một con cá hung dữ ở trên biển</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://thai1820.github.io/mywordpres/san-pham/ong-gia-va-bien-ca/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

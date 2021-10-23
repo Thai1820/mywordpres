@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Đi tìm thời gian đã mất &#8211; Reibookstore</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/di-tim-thoi-gian-da-mat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<description>Sách là tri thức của nhân loài</description>
+	<lastBuildDate>Sun, 10 Oct 2021 08:41:56 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>http://https://thai1820.github.io/mywordpres/wp-content/uploads/2021/10/cropped-Grans-way-1-32x32.png</url>
+	<title>Đi tìm thời gian đã mất &#8211; Reibookstore</title>
+	<link>http://https://thai1820.github.io/mywordpres</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Đi tìm thời gian đã mất</title>
+		<link>http://https://thai1820.github.io/mywordpres/san-pham/di-tim-thoi-gian-da-mat/</link>
+					<comments>http://https://thai1820.github.io/mywordpres/san-pham/di-tim-thoi-gian-da-mat/#respond</comments>
+		
+		<dc:creator><![CDATA[NguyenThaiTT]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 14:38:54 +0000</pubDate>
+				<guid isPermaLink="false">http://https://thai1820.github.io/mywordpres/?post_type=product&#038;p=88</guid>
+
+					<description><![CDATA[Kích thước : 20.5 x 14.5 cm
+
+Nhà phát hành : Tiền Phong
+
+Dịch giả : Nguyễn Trọng Định]]></description>
+										<content:encoded><![CDATA[<p>Trên hành trình của nhân vật chính để trở thành nhà văn, truyện dẫn dắt người đọc qua những kí ức đầy sống động trong cảm giác về cuộc sống xung quanh, qua những nỗi sợ hãi và lo âu của tác giả khi dần trở nên lãnh cảm với chính những con người thân thương, qua những suy nghĩ về nghệ thuật mang ý nghĩa đời sống, và qua những cuộc tình đồng giới.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://https://thai1820.github.io/mywordpres/san-pham/di-tim-thoi-gian-da-mat/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
